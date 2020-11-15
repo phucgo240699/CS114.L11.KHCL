@@ -16,4 +16,4 @@
 * Thực hành: Dự đoán thời gian chạy của thuật toán
 #### Logistic Regression:
 * Lý thuyết: tóm tắt lý thuyết về Linear Regression
-* Thực hành: Phân loại sức khỏe thai nhi, news headlines sarcasm detection
+* Thực hành: Phân loại sức khỏe thai nhi
